@@ -4,9 +4,9 @@ A modern, secure 2-screen payment flow application built with Astro, SolidJS, Ty
 
 ## 🚀 Live Demo
 
-**Deployed on Vercel:** [Your Vercel URL will go here after deployment]
+**Deployed on Vercel:** https://payment-flow-rust.vercel.app/
 
-**GitHub Repository:** [Your GitHub URL will go here]
+**GitHub Repository:** https://github.com/vinni1610/payment-flow
 
 ## 🛠️ Tech Stack
 
